@@ -31,7 +31,7 @@ I love building things that make learning fun, from educational games to data-dr
 | Project | What it is | Tech |
 |---|---|---|
 | 🚦 [**Traffic Accident Hotspot Prediction**](https://github.com/RenadQ/traffic-accident-hotspot-prediction) | Data mining project that predicts high-risk accident locations from U.S. accident data. The best model (Gradient Boosting) reached 98% precision on hotspots. | Python, pandas, scikit-learn |
-| 👻 [**The Last Floor**](https://github.com/RenadQ/The-Last-Floor_game) | Mobile horror-maze game: escape a haunted building floor by floor, dodge ghosts and use power-ups. | React Native, Expo |
+| 👻 [**The Last Floor**](https://github.com/RenadQ/The-Last-Floor) | Mobile horror-maze game: escape a haunted building floor by floor, dodge ghosts and use power-ups. | React Native, Expo |
 | 🍪 [**Ginger House Decoration**](https://github.com/RenadQ/ginger-house-decoration) | Web game that turns OOP revision into a baking challenge: answer questions to unlock ingredients and decorate a dessert. | HTML, CSS, JavaScript |
 | 🌊 [**Ocean Circulation**](https://github.com/RenadQ/Ocean-circulation) | NASA Space Apps Challenge 2023 educational game design about tides, marine life and ocean zones. | Game design |
 | 🧠 [**SmartMe**](https://github.com/RenadQ/smartMe) | Memory card-matching game with increasing difficulty and a time limit. | Java, Swing |
